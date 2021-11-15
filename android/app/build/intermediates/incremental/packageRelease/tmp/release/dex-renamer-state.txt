@@ -1,0 +1,11 @@
+<<<<<<< HEAD
+#Thu Sep 02 16:59:45 PKT 2021
+=======
+#Thu Oct 28 13:35:00 PKT 2021
+>>>>>>> 65b61fa3edc9dcafc93354d2ed0208ec5217d7fd
+base.1=/Users/apple/Desktop/reactnative/indiscan/android/app/build/intermediates/dex/release/mergeDexRelease/classes2.dex
+path.1=classes2.dex
+base.0=/Users/apple/Desktop/reactnative/indiscan/android/app/build/intermediates/dex/release/mergeDexRelease/classes.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+path.0=classes.dex

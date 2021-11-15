@@ -1,0 +1,14 @@
+com/indiscan/ReactNativeFlipper.java
+ com.indiscan.ReactNativeFlipper
+ com.indiscan.ReactNativeFlipper$1
+ com.indiscan.ReactNativeFlipper$2
+ com.indiscan.ReactNativeFlipper$2$1
+com/indiscan/MainActivity.java
+ com.indiscan.MainActivity
+com/indiscan/MainApplication.java
+ com.indiscan.MainApplication
+ com.indiscan.MainApplication$1
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
+com/indiscan/BuildConfig.java
+ com.indiscan.BuildConfig

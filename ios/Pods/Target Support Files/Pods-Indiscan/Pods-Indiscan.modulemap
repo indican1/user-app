@@ -1,0 +1,6 @@
+module Pods_Indiscan {
+  umbrella header "Pods-Indiscan-umbrella.h"
+
+  export *
+  module * { export * }
+}
